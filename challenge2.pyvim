@@ -1,0 +1,6 @@
+!#/usr/bin/env python3i
+col_list= ["blue", "columbus"]
+col_list.append ("1492")
+name = input(what's your name?)
+print = ("in" + col_list[2] +, "Columbus sailed the ocean blue", +name "fell off the boat")
+ 
